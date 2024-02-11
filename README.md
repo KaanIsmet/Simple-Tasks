@@ -1,7 +1,6 @@
 
 # Simple Tasks
 
-##$ Description:
 SimpleTaskManager is a lightweight task management web application built using Spring Boot. This project incorporates JSON serialization and deserialization to enable efficient communication between the client and server. Users can register, log in, and manage tasks with ease, with data exchanged in JSON format.
 
 ### Key Features:
